@@ -5,7 +5,7 @@ Created by: Ran Ji
 Created time: January 15, 2023 11:05 PM
 Event time: January 5, 2023
 Last edited by: Ran Ji
-Last edited time: January 15, 2023 11:22 PM
+Last edited time: January 16, 2023 12:20 AM
 Type: Ecological Meeting
 
 ## 📅 January 5, 2023 10:30 AM (CST)
@@ -27,7 +27,7 @@ Type: Ecological Meeting
         - Finishing up Darwinia 2.0 staking API integration.
         - Keep coding Darwinia 2.0 account migration UI.
     - TODO
-        - 
+        - Finishing up Darwinia 2.0 staking API integration.
     
     **Ran Ji**
     
