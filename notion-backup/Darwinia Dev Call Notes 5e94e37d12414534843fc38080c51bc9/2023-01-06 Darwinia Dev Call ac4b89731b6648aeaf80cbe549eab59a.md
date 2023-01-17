@@ -1,9 +1,9 @@
-# 2023-01-06 Darwinia Core Dev Meeting
+# 2023-01-06 Darwinia Dev Call
 
 Attendees: Anonymous, Anonymous, Anonymous, Anonymous, Echo Hu, Anonymous, Anonymous, Anonymous, Anonymous
 Created time: January 16, 2023 1:09 AM
 Event time: January 6, 2023
-Last edited time: January 16, 2023 1:52 AM
+Last edited time: January 16, 2023 9:40 PM
 Type: Core Dev
 
 ## 📅 January 6, 2023 10:30 AM (CST)
@@ -68,7 +68,7 @@ Type: Core Dev
 
 1. Polkadot Apps account type issues
     
-    ![Untitled](2023-01-06%20Darwinia%20Core%20Dev%20Meeting%20ac4b89731b6648aeaf80cbe549eab59a/Untitled.png)
+    ![Untitled](2023-01-06%20Darwinia%20Dev%20Call%20ac4b89731b6648aeaf80cbe549eab59a/Untitled.png)
     
 2. pallet-identity state migration?
 3. [Verify BLS signature inside zk-SNARK](https://github.com/darwinia-network/darwinia-messages-sol/issues/301#issue-1518365406)
