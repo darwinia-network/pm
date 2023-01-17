@@ -1,0 +1,88 @@
+# 2023-01-13 Darwinia Core Dev Meeting
+
+Attendees: Anonymous, Cheng Xiao, Anonymous, Anonymous, Echo Hu, Bear Wang, Anonymous, Anonymous, Anonymous
+Created by: Ran Ji
+Created time: January 16, 2023 1:25 AM
+Event time: January 13, 2023
+Last edited by: Ran Ji
+Last edited time: January 16, 2023 1:56 AM
+Type: Core Dev
+
+## 📅 January 13, 2023 10:30 AM (CST)
+
+## 📚 Pre-read
+
+- Docs
+    - Last week meeting note [2023-01-06 Darwinia Core Dev Meeting](2023-01-06%20Darwinia%20Core%20Dev%20Meeting%20ac4b89731b6648aeaf80cbe549eab59a.md)
+- Team updates & gut checks
+    
+    🎯 Xavier
+    
+    - Finished
+        - Pangolin2 testnet related works
+        - https://github.com/darwinia-network/darwinia-2.0/pull/204
+        - https://github.com/darwinia-network/darwinia-2.0/pull/200
+        - https://github.com/darwinia-network/darwinia-2.0/pull/198
+        - https://github.com/darwinia-network/darwinia-2.0/pull/197
+        - https://github.com/darwinia-network/darwinia-2.0/pull/195
+        - https://github.com/darwinia-network/darwinia-2.0/pull/192
+        - https://github.com/darwinia-network/darwinia-2.0/pull/191
+    - In Progress
+        - Substrate update
+        - Review identity migration
+    
+    🎯 Bear
+    
+    - Finished
+        - `pallet-identity` state migration
+        - fix dispatch precompile
+        - Review prs
+    - In Progress
+        - Add evm tests
+    
+    🎯 Guantong Ji
+    
+    - Finished
+        - ‣
+        - https://github.com/darwinia-network/moonbeam/pull/2
+        - https://github.com/darwinia-network/frontier/pull/14
+        - https://github.com/darwinia-network/darwinia-2.0/pull/171
+        - darwinia/frontier polkadot-v0.9.36
+    - In Progress
+        - darwinia/moonbeam polkadot-v0.9.36
+        - darwinia-messages-substrate v0.9.36
+    
+    🎯 Echo
+    
+    - Finished
+        - Research L2 to L1 messaging
+        - Bridge RING to aribitrum one
+        - Message protocol audit pair call #3
+    - In Progress
+        - Learn ZK resources
+        - Verify BLS signature inside zk-SNARK
+    
+    🎯 Yalin
+    
+    - Finished
+        - Crab PLO 奖励发放
+        - GCP 新项目创建
+    - In Progress
+        - terraform 支持新 GCP 项目
+        - ansible 更新. 支持新的 GCP 机器. 以及重构 ansible 实现.
+
+## 💬 Agenda items
+
+1. Darwinia 2.0 Engineering Progress
+2. [通过外部桥转移资产到其他平行链](https://www.notion.so/a632fad8c66d4aeb8ffbd32f76507df2) 
+3. RING on Arbitrum, some infrastructure demand including quick LP bridge. 
+    1. Run a LP in a chosen LP bridge on Arbitrum for RING. @Cheng Xiao @Echo Hu 
+    2. [https://portal.arbitrum.one/](https://portal.arbitrum.one/)
+
+## ☑️ Action items
+
+- [ ]  Write a readme article(user acknowledgement) for account-migration ui to link
+- [ ]  Pangolin2 Check and Test @Bear Wang @Echo Hu @Cheng Xiao @Ran Ji
+    - [ ]  Subscan Integration Test after disable Pangolin 1.0
+- [ ]  Darwinia2 Staking ui check and test @Ran Ji @Cindy Tan
+- [ ]  Have gov proposal for the new staking ration from inflation. cc @Ran Ji
