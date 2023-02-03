@@ -4,7 +4,8 @@ Attendees: Anonymous, Cheng Xiao, Anonymous, Anonymous, Echo Hu, Bear Wang, Anon
 Created by: Ran Ji
 Created time: January 17, 2023 7:38 PM
 Event time: January 20, 2023
-Last edited time: January 19, 2023 6:27 PM
+Last edited by: Bear Wang
+Last edited time: February 2, 2023 5:16 PM
 Type: Core Dev
 
 ## 📅 January 20, 2023 10:00 AM (CST)
