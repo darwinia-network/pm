@@ -24,13 +24,13 @@ Type: Core Dev
         - https://github.com/darwinia-network/darwinia-2.0/pull/174
         - https://github.com/darwinia-network/darwinia-2.0/pull/172
     - In Progress
-        - ‣
+        - https://github.com/darwinia-network/darwinia-2.0/issues/92
         - https://github.com/darwinia-network/darwinia-2.0/issues/142
     
     🎯 Bear
     
     - Finished
-        - ‣
+        - https://github.com/darwinia-network/darwinia-2.0/pull/165
         - https://github.com/darwinia-network/darwinia-2.0/pull/153
         - https://github.com/darwinia-network/darwinia-2.0/pull/169
         - https://github.com/darwinia-network/darwinia-2.0/pull/173
@@ -44,7 +44,7 @@ Type: Core Dev
     - Finished
         - https://github.com/darwinia-network/darwinia-2.0/pull/167
     - In Progress
-        - ‣ Messages substrate
+        - https://github.com/darwinia-network/darwinia-messages-substrate/pull/235 Messages substrate
         - https://github.com/darwinia-network/darwinia-2.0/pull/171 Darwinia-2.0
         - Moonbeam v0.9.33
     
@@ -62,7 +62,7 @@ Type: Core Dev
         - feemarket strategy 优化. 仅在自己所在 slot 进行递送
         - alarmmgr 运行调试以及调查过多错误通知问
     - In Progress
-        - substrate ecdsa keccak 特性支持, 已做初步修改. 相关问题于上游讨论需要继续调整 ‣ [https://github.com/fewensa/substrate/commit/09c5afd4b55a19f7515475fd383db0edb9cf8630](https://github.com/fewensa/substrate/commit/09c5afd4b55a19f7515475fd383db0edb9cf8630#diff-a1370f23ed063d050c75648f95fc2811b04b9c04203376f24c2f7e99b00b800bR209-R212)
+        - substrate ecdsa keccak 特性支持, 已做初步修改. 相关问题于上游讨论需要继续调整 https://github.com/paritytech/substrate/pull/13016 [https://github.com/fewensa/substrate/commit/09c5afd4b55a19f7515475fd383db0edb9cf8630](https://github.com/fewensa/substrate/commit/09c5afd4b55a19f7515475fd383db0edb9cf8630#diff-a1370f23ed063d050c75648f95fc2811b04b9c04203376f24c2f7e99b00b800bR209-R212)
 
 ## 💬 Agenda items
 
