@@ -1,17 +1,17 @@
-# 2023-02-03 Darwinia Dev Call
+# 2023-02-10 Darwinia Dev Call
 
 Attendees: Anonymous, Anonymous, Anonymous, Anonymous, Anonymous, Anonymous, Anonymous, Anonymous, Anonymous
-Created time: February 2, 2023 5:15 PM
+Created time: February 9, 2023 5:16 PM
 Event time: January 20, 2023
-Last edited time: February 2, 2023 7:45 PM
+Last edited time: February 9, 2023 5:17 PM
 Type: Core Dev
 
-## 📅 February 3, 2023 10:00 AM (GMT+8)
+## 📅 February 10, 2023 10:00 AM (GMT+8)
 
 ## 📚 Pre-read
 
 - Docs
-    - Last week meeting note link: [2023-01-20 Darwinia Dev Call](2023-01-20%20Darwinia%20Dev%20Call%2000d2b689ef7c4f70ad295a01cb928ac8.md)
+    - Last week meeting note link:
 - Team updates & gut checks
     
     🎯 Xavier

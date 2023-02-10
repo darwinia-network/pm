@@ -8,7 +8,7 @@ Last edited by: Bear Wang
 Last edited time: February 2, 2023 5:16 PM
 Type: Core Dev
 
-## 📅 January 20, 2023 10:00 AM (CST)
+## 📅 January 20, 2023 10:00 AM (GMT+8)
 
 ## 📚 Pre-read
 

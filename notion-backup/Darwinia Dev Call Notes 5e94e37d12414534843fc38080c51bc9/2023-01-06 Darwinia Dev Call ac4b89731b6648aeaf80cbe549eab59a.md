@@ -6,7 +6,7 @@ Event time: January 6, 2023
 Last edited time: January 19, 2023 6:21 PM
 Type: Core Dev
 
-## 📅 January 6, 2023 10:30 AM (CST)
+## 📅 January 6, 2023 10:30 AM (GMT+8)
 
 ## 📚 Pre-read
 
