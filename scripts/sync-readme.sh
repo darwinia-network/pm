@@ -27,12 +27,17 @@ sync_dev_call() {
   done
 }
 
+preview_readme() {
+    cat ${README_FILE}
+}
+
 
 main() {
   > ${README_FILE}
 
   prepare_readme
   sync_dev_call
+  preview_readme
 }
 
 main
