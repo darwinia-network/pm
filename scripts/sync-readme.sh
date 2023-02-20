@@ -24,7 +24,8 @@ sync_dev_call() {
   do
     DATE=$(echo $ENTRY | cut -d ' ' -f1)
     URL=$(echo notion-backup/${DEV_CALL_DIRNAME}/${ENTRY} | sed -e 's/ /%20/g')
-    echo "- [${DATE} Darwinia Dev Call](${URL})" >> ${README_FILE}
+    MEET_LIN="- [${DATE} Darwinia Dev Call](${URL})"
+    sed -i "1i${MEET_LIN}" ${README_FILE}
   done
 }
 
