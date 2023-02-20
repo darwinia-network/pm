@@ -21,6 +21,7 @@ sync_dev_call() {
   echo '' >> ${README_FILE}
   
   TMP_FILE=${BIN_PATH}/dev-call.tmp.txt
+  touch $TMP_FILE
   for ENTRY in *.md
   do
     DATE=$(echo $ENTRY | cut -d ' ' -f1)
