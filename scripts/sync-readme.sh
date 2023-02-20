@@ -23,7 +23,8 @@ sync_dev_call() {
   for ENTRY in *.md
   do
     DATE=$(echo $ENTRY | cut -d ' ' -f1)
-    echo "- [${DATE} Darwinia Dev Call](notion-backup/${DEV_CALL_DIRNAME}/${ENTRY})" >> ${README_FILE}
+    URL=$(echo notion-backup/${DEV_CALL_DIRNAME}/${ENTRY} | sed -e 's/ /%20/g')
+    echo "- [${DATE} Darwinia Dev Call](${URL})" >> ${README_FILE}
   done
 }
 
