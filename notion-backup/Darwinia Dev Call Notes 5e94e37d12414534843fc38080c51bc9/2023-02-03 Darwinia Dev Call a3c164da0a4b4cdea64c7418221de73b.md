@@ -1,8 +1,10 @@
 # 2023-02-03 Darwinia Dev Call
 
-Attendees: Anonymous, Anonymous, Anonymous, Anonymous, Anonymous, Anonymous, Anonymous, Anonymous, Anonymous
+Attendees: Denny Wang, Cheng Xiao, Xavier Lau, Yalin Cai, Echo Hu, Bear Wang, Guantong Ji, Aki Wu, Ismail Mbarack
+Created by: Bear Wang
 Created time: February 2, 2023 5:15 PM
 Event time: January 20, 2023
+Last edited by: Denny Wang
 Last edited time: February 2, 2023 7:45 PM
 Type: Core Dev
 
