@@ -4,8 +4,8 @@ Attendees: Denny Wang, Cheng Xiao, Xavier Lau, Yalin Cai, Echo Hu, Bear Wang, Gu
 Created by: Ran Ji
 Created time: January 17, 2023 7:38 PM
 Event time: January 20, 2023
-Last edited by: Bear Wang
-Last edited time: February 2, 2023 5:16 PM
+Last edited by: Yalin Cai
+Last edited time: March 16, 2023 5:55 PM
 Type: Core Dev
 
 ## 📅 January 20, 2023 10:00 AM (GMT+8)
@@ -13,7 +13,7 @@ Type: Core Dev
 ## 📚 Pre-read
 
 - Docs
-    - Last week meeting note link: [2023-01-13 Darwinia Dev Call](2023-01-13%20Darwinia%20Dev%20Call%209698a009fbc04548a7178a5bbfd2a6e0.md)
+    - Last week meeting note link: [2023-01-13 Darwinia Dev Call](2023-01-13%20Darwinia%20Dev%20Call%2036244c404f98432b8afd35cf1f66b867.md)
 - Team updates & gut checks
     
     🎯 Xavier
